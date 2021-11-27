@@ -13,7 +13,4 @@
 ## Functions
 |Feature Id|	Feature|
 |---------|----------|
-|F_01|	Adding the Records|
-|F_02	|Deleting the Records|
-|F_03|	Searching the Records|
-|F_04	|View the records|
+|F_01|	Detecting Noise Level|
