@@ -41,7 +41,7 @@ These devices are used in silent zones like hospitals, libraries, labs, and also
 ### What
 - This helps us to maintain silence and also to identify noisy people so that necessary action can be against them.
 ### When 
-- At the time of examination.
+- At the any time .
 ### Where
 - At Hospital,School,Colleges.
 ### How
