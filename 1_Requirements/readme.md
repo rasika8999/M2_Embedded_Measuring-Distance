@@ -16,19 +16,19 @@ The objective of the project is to design and implement an ultrasonic distance m
 This system is used to monitor the distance between ultrasonic sensor and object. Microcontroller ATmega328 is used to control the whole process. Ultrasonic sensor will be having transmitter and receiver in it. Transmitter continuously transmits the signal and whenever obstacle approaches the  sensor then that transmitted signal hits the object, bounce back and is received by ultrasonic receiver. That sensor sensed signal with respect to distance is then send to microcontroller, microcontroller in turn displays the measured distance value on LCD.
 
 ## SWOT ANALYSIS
-### Strengths:
-##### • Simple device for distance measuremen.
-##### • Cost effective.
-##### • Maintenance is easy.
+### Strengths
+##### -Simple device for distance measuremen.
+##### -Cost effective.
+##### -Maintenance is easy.
    
 ### Weakness
-##### • Limited range.
+##### -Limited range.
    
 ### Opportunities
-##### • Implement can be possible by adding camera for extra accuracy.
+##### -Implement can be possible by adding camera for extra accuracy.
    
 ### Threats
-##### Incase high voltage occurs device may get damge
+##### -Incase high voltage occurs device may get damge
 
 ## 4W's and 1H
 #### Who
@@ -55,7 +55,7 @@ This system isn used when we want to calculate the approxomate distance from a p
 #### Low Level Requirements
 | ID | Description | Status |
 |-------|------|------|
-| LLR1 |System must display data without error | Implemented
+| LLR1 |System must display data without error | Implemented|
 
 
 
