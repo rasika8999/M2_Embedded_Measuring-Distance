@@ -28,7 +28,7 @@ This system is used to monitor the distance between ultrasonic sensor and object
 ##### • Implement can be possible by adding camera for extra accuracy.
    
 ### Threats
-##### One major problem of ultrasonic distance measurement is the strongly object dependent detection rang. 
+##### Incase high voltage occurs device may get damge
 
 ## 4W's and 1H
 #### Who
