@@ -1,4 +1,3 @@
-
 #include <avr/io.h>
 #include <ultra/ultramega32.h>
 #include <avr/interrupt.h>
