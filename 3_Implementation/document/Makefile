@@ -1,4 +1,4 @@
-DOXY_FILE = Distance
+DOXY_FILE = ultra
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
