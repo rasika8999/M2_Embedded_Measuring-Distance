@@ -1,1 +1,2 @@
-![circuit dia](https://user-images.githubusercontent.com/94467725/143899234-58fed49e-1365-4f24-b5e5-1dedc9c8b76f.PNG)
+
+![circuit diagram](https://user-images.githubusercontent.com/94467725/144264114-d6163650-c874-4276-9a4c-32fc0a6212c8.PNG)
