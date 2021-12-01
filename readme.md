@@ -22,5 +22,5 @@ is sensed by an ultrasonic sensor and displays measured distance on an LCD displ
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Build](https://github.com/40010753/M2-Embedded_ProjectGoal/actions/workflows/compile.yml/badge.svg)](https://github.com/40010753/M2-Embedded_ProjectGoal/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/40010753/M2-Embedded_ProjectGoal/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/40010753/M2-Embedded_ProjectGoal/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/91a7c1f58a0a48f78098f343f553a444)](https://www.codacy.com/gh/rasika8999/M2_Embedded_Measuring-Distance/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rasika8999/M2_Embedded_Measuring-Distance&amp;utm_campaign=Badge_Grade)
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/91a7c1f58a0a48f78098f343f553a444)](https://www.codacy.com/gh/rasika8999/M2_Embedded_Measuring-Distance/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=rasika8999/M2_Embedded_Measuring-Distance&amp;utm_campaign=Badge_Grade)
 
