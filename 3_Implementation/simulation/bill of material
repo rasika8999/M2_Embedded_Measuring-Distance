@@ -1,8 +1,0 @@
-Circuit: new.simu
-
-Bill of Materials:
-
-Arduino Uno-13 : Arduino Uno   
-Hd44780-2 : Hd44780   
-Potentiometer-14 : Potentiometer 1 kΩ
-SR04-16 : SR04   
