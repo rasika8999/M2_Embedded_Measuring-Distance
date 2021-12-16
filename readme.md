@@ -23,3 +23,4 @@ is sensed by an ultrasonic sensor and displays measured distance on an LCD displ
 |Codcay|Cppcheck|Build|
 |:--:|:--:|:--:|
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3dfa636851f9408ead12e90e49e6aa2d)](https://app.codacy.com/gh/rasika8999/M2_Embedded_Measuring-Distance?utm_source=github.com&utm_medium=referral&utm_content=rasika8999/M2_Embedded_Measuring-Distance&utm_campaign=Badge_Grade_Settings)
+ 
